@@ -1,1 +1,4 @@
 # Pagar-Otomatis
+kebutuhan masyarakat di perkotaan dengan jadwal kegiatan yang super padat dan menuntut segala sesuatunya serba cepat dan instan membuat pagar manual dinilai tidak efisien dan efektif dalam segi waktu sehingga membutuhkan hadirnya pagar otomatis untuk menjadi solusi dari permasalahan ini.
+cara kerja dari pagar otomatis ini yaitu berbasis microcontroller dan remote control sebagai interface nya untuk melakukan perintah. kemudian diterima oleh motor yang diletakkan di pagar untuk selanjutnya melakukan gerakan membuka/menutup, maju/mundur. pagar otomatis juga bisa ditambahkan sistem pengaman seperti code atau sensor tertentu agar tidak bisa dibuka oleh sembarang orang.
+keunggulan dari padar otomatis ini antara lain; efisiensi dan keefektifan waktu dan tenaga, keamanan lebih ketat dan terjamin, pagar otomatis juga hemat biaya dalam skala yang panjang, juga menjaga privasi pribadi dan rumah.
